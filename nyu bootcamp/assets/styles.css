@@ -1,0 +1,17 @@
+span {
+    display: inline-block;
+}
+body {
+    text-align: center;
+}
+#icons {
+    color: blueviolet;
+    height: 1 cm;
+    width: 1 cm;
+}
+nav {
+    border: 0.1cm;
+    border-width: 0.1cm;
+    border-style: solid;
+    border-spacing: 0.2cm;
+}
